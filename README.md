@@ -1,4 +1,4 @@
-# mina-world-web-design
+# Mina World Web Design
 
 `mina World is a responsive creative and amazing animation webApp using HTML & CSS & JS check it out from `                    
  [here](https://mina-world.netlify.app/)
